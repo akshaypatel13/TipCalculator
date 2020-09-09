@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="_1">1</string>
+    <string name="textview">TextView</string>
+    <string name="_8">8</string>
+    <string name="_2">2</string>
+</resources>
